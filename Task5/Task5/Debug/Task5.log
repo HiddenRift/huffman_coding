@@ -1,0 +1,25 @@
+﻿Build started 07/03/2018 20:45:30.
+     1>Project "H:\Personal\c++ programming\.cpp assignment\Task5\Task5\Task5.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Task5.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Task5.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt HuffmanCodeTree.cpp main.cpp PriorityQueue.cpp SymbolFreq.cpp tree.cpp
+         tree.cpp
+         SymbolFreq.cpp
+         PriorityQueue.cpp
+         main.cpp
+         HuffmanCodeTree.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Personal\c++ programming\.cpp assignment\Task5\Debug\Task5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"H:\Personal\c++ programming\.cpp assignment\Task5\Debug\Task5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Personal\c++ programming\.cpp assignment\Task5\Debug\Task5.lib" /MACHINE:X86 Debug\HuffmanCodeTree.obj
+         Debug\main.obj
+         Debug\PriorityQueue.obj
+         Debug\stdafx.obj
+         Debug\SymbolFreq.obj
+         Debug\tree.obj
+         Task5.vcxproj -> H:\Personal\c++ programming\.cpp assignment\Task5\Debug\Task5.exe
+     1>Done Building Project "H:\Personal\c++ programming\.cpp assignment\Task5\Task5\Task5.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.24
